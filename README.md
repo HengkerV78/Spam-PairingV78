@@ -1,4 +1,4 @@
-## Install in Termux
+# Install in Termux
 ```bash
 apt update && apt upgrade -y
 apt install nodejs git -y
